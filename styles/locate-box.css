@@ -1,6 +1,18 @@
 .locate-box {
+	position: relative;
 	width: 100%;
-	height: 300px;
-	background-color: #0abbb5;
-	border: 1px solid black;
+	height: 768px;
+	background-image: url("../assets/bgimg/key-house.jpg");
+}
+.middle {
+	position: relative;
+	padding-top: 314px;
+	padding-left: 25px;
+}
+
+.select-style {
+	height: 30px;
+	background-color: #eaeaea;
+	border: none;
+	border-radius: 25%;
 }
